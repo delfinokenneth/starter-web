@@ -1,0 +1,25 @@
+[33mb84a128[m[33m ([m[1;36mHEAD -> [m[1;32mtitle-change[m[33m)[m Changing title of HTML file
+[33mde8d70d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Updating repo with changes from compare section
+[33m5c360c0[m Adding introduction text
+[33maea5cf8[m Adding description
+[33mfb72638[m Adding new section: Deployment
+[33m4c4bb30[m Adding REAME file
+[33mf2dcafc[m Excluding log file directory
+[33m5805e50[m Adding git ignore file to exclude unwanted files.
+[33m9c00a69[m deleting level1 and all children
+[33mb758d30[m Deleted hipster.txt file
+[33m6d8582c[m Deleting new file
+[33mbc63357[m Renaming level 1 file.
+[33mdd2713c[m Moving level2 file back to level 2 directory.
+[33m370a345[m Moving file from level2 to level3
+[33mf2ff5fc[m Renaming level2 file
+[33mfb1be7b[m Renaming level 3 file
+[33m480c358[m Adding several files recursively
+[33mfcca6bf[m More ipsum for hipsters
+[33m7129d6c[m Adding new file
+[33m258b1a6[m Adding more ipsum text
+[33m20adbc4[m My first commit!
+[33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[33me73f914[m Adding Purpose section to README
+[33m34f563b[m Adding README file
+[33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
